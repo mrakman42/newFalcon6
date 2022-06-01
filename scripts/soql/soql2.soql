@@ -1,0 +1,1 @@
+SELECT id,name,project_name__cc FROM Salesforce_Project__c

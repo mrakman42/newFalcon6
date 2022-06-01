@@ -1,0 +1,11 @@
+Car bm=new Car();
+bm.carColor='black';
+System.debug('car color '+bm.carColor);
+bm.switchOn();
+bm.driveAtMaxSpeed();
+Car vw=new Car();
+vw.carColor='white';
+vw.carName='polo';
+vw.drive();
+vw.driveAtMaxSpeed();
+System.debug('vw '+vw);
